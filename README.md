@@ -12,6 +12,10 @@ You can click the Preview link to take a look at your changes.
 
 My![Visitor Count](https://profile-counter.glitch.me/yuzengyi/count.svg)visitors
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuzengyi)](https://github.com/yuzengyi/github-readme-stats)
+<div style="text-align: center">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuzengyi)](https://github.com/yuzengyi/github-readme-stats)
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuzengyi&layout=compact)](https://github.com/yuzengyi/github-readme-stats)
+
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuzengyi&show_icons=true&theme=tokyonight)
