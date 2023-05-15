@@ -11,3 +11,5 @@ You can click the Preview link to take a look at your changes.
 ![](https://komarev.com/ghpvc/?username=yuzengyi)
 
 My![Visitor Count](https://profile-counter.glitch.me/yuzengyi/count.svg)visitors
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuzengyi)](https://github.com/yuzengyi/github-readme-stats)
