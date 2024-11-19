@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yuzengyi
-- 👀 I’m interested in Big data analysis
+- 👀 I’m interested in AI in education 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on Artificial Intelligence
 - 📫 How to reach me at https://space.bilibili.com/1522314416
